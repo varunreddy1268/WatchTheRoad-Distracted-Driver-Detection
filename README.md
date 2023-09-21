@@ -21,7 +21,7 @@ by our trained model to predict the driver's behavior.
 - HTML/CSS (for website development)
 - Streamlit (for deploying the model)
 
-### Skillset
+### Skills:
 
 - Data Exploration & Visualization
 - Convolutional Neural Networks (CNNs)
