@@ -18,7 +18,7 @@ by our trained model to predict the driver's behavior.
 - Keras
 - OpenCV
 - Flask (for website deployment)
-- HTML/CSS (for website development)
+- NodeJs,React(For front end web development)
 - Streamlit (for deploying the model)
 
 ### Skills:
